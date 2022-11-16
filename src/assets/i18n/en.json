@@ -1,0 +1,21 @@
+{
+  "test.message": "Test Message",
+
+  "header":{
+    "menu": {
+      "deshboard": "Deshborad",
+      "chat": "Chat",
+      "logout": "Logout",
+      "languages": "Languages"
+    }
+  },
+  "user": {
+    "activate": {
+      "already": "Your account is already activated.",
+      "token" : {
+        "expire": "Your token is expire."
+      }
+    }
+  }
+
+}
